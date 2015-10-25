@@ -12,9 +12,7 @@
 
 pkg = require "../package.json"
 
-path = require "path"
 chalk = require "chalk"
-glob = require "glob"
 lodash = require "lodash"
 gadkod = require "./gadkod"
 error = chalk.bold.red
@@ -32,8 +30,8 @@ if program.args.length is 0
     process.exit 1
 
 aFilePaths = []
-aFilePaths.push glob.sync sFilePath for sFilePath in program.args
-aFilePaths = lodash.map ( lodash.flatten aFilePaths, yes ), ( s ) -> path.resolve process.cwd(), "./#{ s }"
+aFilePaths.push ( require "glob" ).sync sFilePath for sFilePath in program.args
+aFilePaths = lodash.map ( lodash.flatten aFilePaths, yes ), ( s ) -> ( require "path" ).resolve process.cwd(), "./#{ s }"
 
 aFilePaths.forEach ( sFilePath ) ->
     gadkod.report sFilePath, {}, ( oError, aResults = [] ) ->
