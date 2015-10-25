@@ -1,326 +1,326 @@
 {
   "\u00A0":{
     "source":{
-      "name":"unknown"
+      "name":"NO-BREAK SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2000":{
     "source":{
-      "name":"unknown"
+      "name":"EN QUAD"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2001":{
     "source":{
-      "name":"unknown"
+      "name":"EM QUAD"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2002":{
     "source":{
-      "name":"unknown"
+      "name":"EN SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2003":{
     "source":{
-      "name":"unknown"
+      "name":"EM SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2004":{
     "source":{
-      "name":"unknown"
+      "name":"THREE-PER-EM SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2005":{
     "source":{
-      "name":"unknown"
+      "name":"FOUR-PER-EM SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2006":{
     "source":{
-      "name":"unknown"
+      "name":"SIX-PER-EM SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2007":{
     "source":{
-      "name":"unknown"
+      "name":"FIGURE SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2008":{
     "source":{
-      "name":"unknown"
+      "name":"PUNCTUATION SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u2009":{
     "source":{
-      "name":"unknown"
+      "name":"THIN SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u200A":{
     "source":{
-      "name":"unknown"
+      "name":"HAIR SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u202F":{
     "source":{
-      "name":"unknown"
+      "name":"NARROW NO-BREAK SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\u205F":{
     "source":{
-      "name":"unknown"
+      "name":"MEDIUM MATHEMATICAL SPACE"
     },
     "replacement":{
-      "character":" ",
-      "name":"unknown"
+      "character":"\u0020",
+      "name":"SPACE"
     }
   },
   "\uFF01":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH EXCLAMATION MARK"
     },
     "replacement":{
-      "character":"!",
-      "name":"unknown"
+      "character":"\u0021",
+      "name":"EXCLAMATION MARK"
     }
   },
   "\u01C3":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN LETTER RETROFLEX CLICK"
     },
     "replacement":{
-      "character":"!",
-      "name":"unknown"
+      "character":"\u0021",
+      "name":"EXCLAMATION MARK"
     }
   },
   "\u2D51":{
     "source":{
-      "name":"unknown"
+      "name":"TIFINAGH LETTER TUAREG YANG"
     },
     "replacement":{
-      "character":"!",
-      "name":"unknown"
+      "character":"\u0021",
+      "name":"EXCLAMATION MARK"
     }
   },
   "\uFE15":{
     "source":{
-      "name":"unknown"
+      "name":"PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK"
     },
     "replacement":{
-      "character":"!",
-      "name":"unknown"
+      "character":"\u0021",
+      "name":"EXCLAMATION MARK"
     }
   },
   "\uFE57":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL EXCLAMATION MARK"
     },
     "replacement":{
-      "character":"!",
-      "name":"unknown"
+      "character":"\u0021",
+      "name":"EXCLAMATION MARK"
     }
   },
   "\uFF02":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH QUOTATION MARK"
     },
     "replacement":{
-      "character":"\"",
-      "name":"unknown"
+      "character":"\u0022",
+      "name":"QUOTATION MARK"
     }
   },
   "\uFF03":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH NUMBER SIGN"
     },
     "replacement":{
-      "character":"#",
-      "name":"unknown"
+      "character":"\u0023",
+      "name":"NUMBER SIGN"
     }
   },
   "\uFE5F":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL NUMBER SIGN"
     },
     "replacement":{
-      "character":"#",
-      "name":"unknown"
+      "character":"\u0023",
+      "name":"NUMBER SIGN"
     }
   },
   "\uFF04":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH DOLLAR SIGN"
     },
     "replacement":{
-      "character":"$",
-      "name":"unknown"
+      "character":"\u0024",
+      "name":"DOLLAR SIGN"
     }
   },
   "\uFE69":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL DOLLAR SIGN"
     },
     "replacement":{
-      "character":"$",
-      "name":"unknown"
+      "character":"\u0024",
+      "name":"DOLLAR SIGN"
     }
   },
   "\uFF05":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH PERCENT SIGN"
     },
     "replacement":{
-      "character":"%",
-      "name":"unknown"
+      "character":"\u0025",
+      "name":"PERCENT SIGN"
     }
   },
   "\u066A":{
     "source":{
-      "name":"unknown"
+      "name":"ARABIC PERCENT SIGN"
     },
     "replacement":{
-      "character":"%",
-      "name":"unknown"
+      "character":"\u0025",
+      "name":"PERCENT SIGN"
     }
   },
   "\u2052":{
     "source":{
-      "name":"unknown"
+      "name":"COMMERCIAL MINUS SIGN"
     },
     "replacement":{
-      "character":"%",
-      "name":"unknown"
+      "character":"\u0025",
+      "name":"PERCENT SIGN"
     }
   },
   "\uFE6A":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL PERCENT SIGN"
     },
     "replacement":{
-      "character":"%",
-      "name":"unknown"
+      "character":"\u0025",
+      "name":"PERCENT SIGN"
     }
   },
   "\uFF06":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH AMPERSAND"
     },
     "replacement":{
-      "character":"&",
-      "name":"unknown"
+      "character":"\u0026",
+      "name":"AMPERSAND"
     }
   },
   "\uFE60":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL AMPERSAND"
     },
     "replacement":{
-      "character":"&",
-      "name":"unknown"
+      "character":"\u0026",
+      "name":"AMPERSAND"
     }
   },
   "\uFF07":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH APOSTROPHE"
     },
     "replacement":{
-      "character":"'",
-      "name":"unknown"
+      "character":"\u0027",
+      "name":"APOSTROPHE"
     }
   },
   "\u02B9":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER PRIME"
     },
     "replacement":{
-      "character":"'",
-      "name":"unknown"
+      "character":"\u0027",
+      "name":"APOSTROPHE"
     }
   },
   "\u0374":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK NUMERAL SIGN"
     },
     "replacement":{
-      "character":"'",
-      "name":"unknown"
+      "character":"\u0027",
+      "name":"APOSTROPHE"
     }
   },
   "\uFF08":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH LEFT PARENTHESIS"
     },
     "replacement":{
-      "character":"(",
-      "name":"unknown"
+      "character":"\u0028",
+      "name":"LEFT PARENTHESIS"
     }
   },
   "\uFE59":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL LEFT PARENTHESIS"
     },
     "replacement":{
-      "character":"(",
-      "name":"unknown"
+      "character":"\u0028",
+      "name":"LEFT PARENTHESIS"
     }
   },
   "\uFF09":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH RIGHT PARENTHESIS"
     },
     "replacement":{
-      "character":")",
-      "name":"unknown"
+      "character":"\u0029",
+      "name":"RIGHT PARENTHESIS"
     }
   },
   "\uFE5A":{
@@ -328,1205 +328,1205 @@
       "name":"unknown"
     },
     "replacement":{
-      "character":")",
-      "name":"unknown"
+      "character":"\u0029",
+      "name":"RIGHT PARENTHESIS"
     }
   },
   "\uFF0A":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH ASTERISK"
     },
     "replacement":{
-      "character":"*",
-      "name":"unknown"
+      "character":"\u002A",
+      "name":"ASTERISK"
     }
   },
   "\u22C6":{
     "source":{
-      "name":"unknown"
+      "name":"STAR OPERATOR"
     },
     "replacement":{
-      "character":"*",
-      "name":"unknown"
+      "character":"\u002A",
+      "name":"ASTERISK"
     }
   },
   "\uFE61":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ASTERISK"
     },
     "replacement":{
-      "character":"*",
-      "name":"unknown"
+      "character":"\u002A",
+      "name":"ASTERISK"
     }
   },
   "\uFF0B":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH PLUS SIGN"
     },
     "replacement":{
-      "character":"+",
-      "name":"unknown"
+      "character":"\u002B",
+      "name":"PLUS SIGN"
     }
   },
   "\u16ED":{
     "source":{
-      "name":"unknown"
+      "name":"RUNIC CROSS PUNCTUATION"
     },
     "replacement":{
-      "character":"+",
-      "name":"unknown"
+      "character":"\u002B",
+      "name":"PLUS SIGN"
     }
   },
   "\uFE62":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL PLUS SIGN"
     },
     "replacement":{
-      "character":"+",
-      "name":"unknown"
+      "character":"\u002B",
+      "name":"PLUS SIGN"
     }
   },
   "\uFF0C":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH COMMA"
     },
     "replacement":{
-      "character":",",
-      "name":"unknown"
+      "character":"\u002C",
+      "name":"COMMA"
     }
   },
   "\u02CF":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER LOW ACUTE ACCENT"
     },
     "replacement":{
-      "character":",",
-      "name":"unknown"
+      "character":"\u002C",
+      "name":"COMMA"
     }
   },
   "\u16E7":{
     "source":{
-      "name":"unknown"
+      "name":"RUNIC LETTER SHORT-TWIG-YR"
     },
     "replacement":{
-      "character":",",
-      "name":"unknown"
+      "character":"\u002C",
+      "name":"COMMA"
     }
   },
   "\u201A":{
     "source":{
-      "name":"unknown"
+      "name":"SINGLE LOW-9 QUOTATION MARK"
     },
     "replacement":{
-      "character":",",
-      "name":"unknown"
+      "character":"\u002C",
+      "name":"COMMA"
     }
   },
   "\uFF0D":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH HYPHEN-MINUS"
     },
     "replacement":{
-      "character":"-",
-      "name":"unknown"
+      "character":"\u002D",
+      "name":"HYPHEN-MINUS"
     }
   },
   "\u02D7":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER MINUS SIGN"
     },
     "replacement":{
-      "character":"-",
-      "name":"unknown"
+      "character":"\u002D",
+      "name":"HYPHEN-MINUS"
     }
   },
   "\u2212":{
     "source":{
-      "name":"unknown"
+      "name":"MINUS SIGN"
     },
     "replacement":{
-      "character":"-",
-      "name":"unknown"
+      "character":"\u002D",
+      "name":"HYPHEN-MINUS"
     }
   },
   "\u23BC":{
     "source":{
-      "name":"unknown"
+      "name":"HORIZONTAL SCAN LINE-7"
     },
     "replacement":{
-      "character":"-",
-      "name":"unknown"
+      "character":"\u002D",
+      "name":"HYPHEN-MINUS"
     }
   },
   "\u2574":{
     "source":{
-      "name":"unknown"
+      "name":"BOX DRAWINGS LIGHT LEFT"
     },
     "replacement":{
-      "character":"-",
-      "name":"unknown"
+      "character":"\u002D",
+      "name":"HYPHEN-MINUS"
     }
   },
   "\uFE63":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL HYPHEN-MINUS"
     },
     "replacement":{
-      "character":"-",
-      "name":"unknown"
+      "character":"\u002D",
+      "name":"HYPHEN-MINUS"
     }
   },
   "\uFF0E":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH FULL STOP"
     },
     "replacement":{
-      "character":".",
-      "name":"unknown"
+      "character":"\u002E",
+      "name":"FULL STOP (PERIOD)"
     }
   },
   "\u2024":{
     "source":{
-      "name":"unknown"
+      "name":"ONE DOT LEADER"
     },
     "replacement":{
-      "character":".",
-      "name":"unknown"
+      "character":"\u002E",
+      "name":"FULL STOP (PERIOD)"
     }
   },
   "\uFF0F":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH SOLIDUS"
     },
     "replacement":{
-      "character":"/",
-      "name":"unknown"
+      "character":"\u002F",
+      "name":"SOLIDUS (SLASH)"
     }
   },
   "\u1735":{
     "source":{
-      "name":"unknown"
+      "name":"PHILIPPINE SINGLE PUNCTUATION"
     },
     "replacement":{
-      "character":"/",
-      "name":"unknown"
+      "character":"\u002F",
+      "name":"SOLIDUS (SLASH)"
     }
   },
   "\u2044":{
     "source":{
-      "name":"unknown"
+      "name":"FRACTION SLASH"
     },
     "replacement":{
-      "character":"/",
-      "name":"unknown"
+      "character":"\u002F",
+      "name":"SOLIDUS (SLASH)"
     }
   },
   "\u2215":{
     "source":{
-      "name":"unknown"
+      "name":"DIVISION SLASH"
     },
     "replacement":{
-      "character":"/",
-      "name":"unknown"
+      "character":"\u002F",
+      "name":"SOLIDUS (SLASH)"
     }
   },
   "\u29F8":{
     "source":{
-      "name":"unknown"
+      "name":"BIG SOLIDUS"
     },
     "replacement":{
-      "character":"/",
-      "name":"unknown"
+      "character":"\u002F",
+      "name":"SOLIDUS (SLASH)"
     }
   },
   "\u14BF":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS SAYISI M"
     },
     "replacement":{
-      "character":"2",
-      "name":"unknown"
+      "character":"\u0032",
+      "name":"DIGIT TWO"
     }
   },
   "\u01B7":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN CAPITAL LETTER EZH"
     },
     "replacement":{
-      "character":"3",
-      "name":"unknown"
+      "character":"\u0033",
+      "name":"DIGIT THREE"
     }
   },
   "\u2128":{
     "source":{
-      "name":"unknown"
+      "name":"BLACK-LETTER CAPITAL Z"
     },
     "replacement":{
-      "character":"3",
-      "name":"unknown"
+      "character":"\u0033",
+      "name":"DIGIT THREE"
     }
   },
   "\u13CE":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER SE"
     },
     "replacement":{
-      "character":"4",
-      "name":"unknown"
+      "character":"\u0034",
+      "name":"DIGIT FOUR"
     }
   },
   "\u13EE":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER WV"
     },
     "replacement":{
-      "character":"6",
-      "name":"unknown"
+      "character":"\u0036",
+      "name":"DIGIT SIX"
     }
   },
   "\u13ED":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER WU"
     },
     "replacement":{
-      "character":"9",
-      "name":"unknown"
+      "character":"\u0039",
+      "name":"DIGIT NINE"
     }
   },
   "\uFF1A":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH COLON"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u02D0":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER TRIANGULAR COLON"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u02F8":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER RAISED COLON"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u0589":{
     "source":{
-      "name":"unknown"
+      "name":"ARMENIAN FULL STOP"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u1361":{
     "source":{
-      "name":"unknown"
+      "name":"ETHIOPIC WORDSPACE"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u16EC":{
     "source":{
-      "name":"unknown"
+      "name":"RUNIC MULTIPLE PUNCTUATION"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u205A":{
     "source":{
-      "name":"unknown"
+      "name":"TWO DOT PUNCTUATION"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u2236":{
     "source":{
-      "name":"unknown"
+      "name":"RATIO"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\u2806":{
     "source":{
-      "name":"unknown"
+      "name":"BRAILLE PATTERN DOTS-23"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\uFE13":{
     "source":{
-      "name":"unknown"
+      "name":"PRESENTATION FORM FOR VERTICAL COLON"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\uFE55":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL COLON"
     },
     "replacement":{
-      "character":":",
-      "name":"unknown"
+      "character":"\u003A",
+      "name":"COLON"
     }
   },
   "\uFF1B":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH SEMICOLON"
     },
     "replacement":{
-      "character":";",
-      "name":"unknown"
+      "character":"\u003B",
+      "name":"SEMICOLON"
     }
   },
   "\u037E":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK QUESTION MARK"
     },
     "replacement":{
-      "character":";",
-      "name":"unknown"
+      "character":"\u003B",
+      "name":"SEMICOLON"
     }
   },
   "\uFE14":{
     "source":{
-      "name":"unknown"
+      "name":"PRESENTATION FORM FOR VERTICAL SEMICOLON"
     },
     "replacement":{
-      "character":";",
-      "name":"unknown"
+      "character":"\u003B",
+      "name":"SEMICOLON"
     }
   },
   "\uFE54":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL SEMICOLON"
     },
     "replacement":{
-      "character":";",
-      "name":"unknown"
+      "character":"\u003B",
+      "name":"SEMICOLON"
     }
   },
   "\uFF1C":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH LESS-THAN SIGN"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\u02C2":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER LEFT ARROWHEAD"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\u2039":{
     "source":{
-      "name":"unknown"
+      "name":"SINGLE LEFT-POINTING ANGLE QUOTATION MARK"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\u227A":{
     "source":{
-      "name":"unknown"
+      "name":"PRECEDES"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\u276E":{
     "source":{
-      "name":"unknown"
+      "name":"HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\u2D66":{
     "source":{
-      "name":"unknown"
+      "name":"TIFINAGH LETTER YE"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\uFE64":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL LESS-THAN SIGN"
     },
     "replacement":{
-      "character":"<",
-      "name":"unknown"
+      "character":"\u003C",
+      "name":"LESS-THAN SIGN"
     }
   },
   "\uFF1D":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH EQUALS SIGN"
     },
     "replacement":{
-      "character":"=",
-      "name":"unknown"
+      "character":"\u003D",
+      "name":"EQUALS SIGN"
     }
   },
   "\u2550":{
     "source":{
-      "name":"unknown"
+      "name":"BOX DRAWINGS DOUBLE HORIZONTAL"
     },
     "replacement":{
-      "character":"=",
-      "name":"unknown"
+      "character":"\u003D",
+      "name":"EQUALS SIGN"
     }
   },
   "\u268C":{
     "source":{
-      "name":"unknown"
+      "name":"DIGRAM FOR GREATER YANG"
     },
     "replacement":{
-      "character":"=",
-      "name":"unknown"
+      "character":"\u003D",
+      "name":"EQUALS SIGN"
     }
   },
   "\uFE66":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL EQUALS SIGN"
     },
     "replacement":{
-      "character":"=",
-      "name":"unknown"
+      "character":"\u003D",
+      "name":"EQUALS SIGN"
     }
   },
   "\uFF1E":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH GREATER-THAN SIGN"
     },
     "replacement":{
-      "character":">",
-      "name":"unknown"
+      "character":"\u003E",
+      "name":"GREATER-THAN SIGN"
     }
   },
   "\u02C3":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER RIGHT ARROWHEAD"
     },
     "replacement":{
-      "character":">",
-      "name":"unknown"
+      "character":"\u003E",
+      "name":"GREATER-THAN SIGN"
     }
   },
   "\u203A":{
     "source":{
-      "name":"unknown"
+      "name":"SINGLE RIGHT-POINTING ANGLE QUOTATION MARK"
     },
     "replacement":{
-      "character":">",
-      "name":"unknown"
+      "character":"\u003E",
+      "name":"GREATER-THAN SIGN"
     }
   },
   "\u227B":{
     "source":{
-      "name":"unknown"
+      "name":"SUCCEEDS"
     },
     "replacement":{
-      "character":">",
-      "name":"unknown"
+      "character":"\u003E",
+      "name":"GREATER-THAN SIGN"
     }
   },
   "\u276F":{
     "source":{
-      "name":"unknown"
+      "name":"HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT"
     },
     "replacement":{
-      "character":">",
-      "name":"unknown"
+      "character":"\u003E",
+      "name":"GREATER-THAN SIGN"
     }
   },
   "\uFE65":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL GREATER-THAN SIGN"
     },
     "replacement":{
-      "character":">",
-      "name":"unknown"
+      "character":"\u003E",
+      "name":"GREATER-THAN SIGN"
     }
   },
   "\uFF1F":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH QUESTION MARK"
     },
     "replacement":{
-      "character":"?",
-      "name":"unknown"
+      "character":"\u003F",
+      "name":"QUESTION MARK"
     }
   },
   "\uFE16":{
     "source":{
-      "name":"unknown"
+      "name":"PRESENTATION FORM FOR VERTICAL QUESTION MARK"
     },
     "replacement":{
-      "character":"?",
-      "name":"unknown"
+      "character":"\u003F",
+      "name":"QUESTION MARK"
     }
   },
   "\uFE56":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL QUESTION MARK"
     },
     "replacement":{
-      "character":"?",
-      "name":"unknown"
+      "character":"\u003F",
+      "name":"QUESTION MARK"
     }
   },
   "\uFF20":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH COMMERCIAL AT"
     },
     "replacement":{
-      "character":"@",
-      "name":"unknown"
+      "character":"\u0040",
+      "name":"COMMERCIAL AT"
     }
   },
   "\uFE6B":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL COMMERCIAL AT"
     },
     "replacement":{
-      "character":"@",
-      "name":"unknown"
+      "character":"\u0040",
+      "name":"COMMERCIAL AT"
     }
   },
   "\u0391":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER ALPHA"
     },
     "replacement":{
-      "character":"A",
-      "name":"unknown"
+      "character":"\u0041",
+      "name":"LATIN CAPITAL LETTER A"
     }
   },
   "\u0410":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER A"
     },
     "replacement":{
-      "character":"A",
-      "name":"unknown"
+      "character":"\u0041",
+      "name":"LATIN CAPITAL LETTER A"
     }
   },
   "\u13AA":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER GO"
     },
     "replacement":{
-      "character":"A",
-      "name":"unknown"
+      "character":"\u0041",
+      "name":"LATIN CAPITAL LETTER A"
     }
   },
   "\u0392":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER BETA"
     },
     "replacement":{
-      "character":"B",
-      "name":"unknown"
+      "character":"\u0042",
+      "name":"LATIN CAPITAL LETTER B"
     }
   },
   "\u0412":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER VE"
     },
     "replacement":{
-      "character":"B",
-      "name":"unknown"
+      "character":"\u0042",
+      "name":"LATIN CAPITAL LETTER B"
     }
   },
   "\u13F4":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER YV"
     },
     "replacement":{
-      "character":"B",
-      "name":"unknown"
+      "character":"\u0042",
+      "name":"LATIN CAPITAL LETTER B"
     }
   },
   "\u15F7":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS CARRIER KHE"
     },
     "replacement":{
-      "character":"B",
-      "name":"unknown"
+      "character":"\u0042",
+      "name":"LATIN CAPITAL LETTER B"
     }
   },
   "\u2C82":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER VIDA"
     },
     "replacement":{
-      "character":"B",
-      "name":"unknown"
+      "character":"\u0042",
+      "name":"LATIN CAPITAL LETTER B"
     }
   },
   "\u03F9":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LUNATE SIGMA SYMBOL"
     },
     "replacement":{
-      "character":"C",
-      "name":"unknown"
+      "character":"\u0043",
+      "name":"LATIN CAPITAL LETTER C"
     }
   },
   "\u0421":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER ES"
     },
     "replacement":{
-      "character":"C",
-      "name":"unknown"
+      "character":"\u0043",
+      "name":"LATIN CAPITAL LETTER C"
     }
   },
   "\u13DF":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER TLI"
     },
     "replacement":{
-      "character":"C",
-      "name":"unknown"
+      "character":"\u0043",
+      "name":"LATIN CAPITAL LETTER C"
     }
   },
   "\u216D":{
     "source":{
-      "name":"unknown"
+      "name":"ROMAN NUMERAL ONE HUNDRED"
     },
     "replacement":{
-      "character":"C",
-      "name":"unknown"
+      "character":"\u0043",
+      "name":"LATIN CAPITAL LETTER C"
     }
   },
   "\u2CA4":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER SIMA"
     },
     "replacement":{
-      "character":"C",
-      "name":"unknown"
+      "character":"\u0043",
+      "name":"LATIN CAPITAL LETTER C"
     }
   },
   "\u13A0":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER A"
     },
     "replacement":{
-      "character":"D",
-      "name":"unknown"
+      "character":"\u0044",
+      "name":"LATIN CAPITAL LETTER D"
     }
   },
   "\u15EA":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS CARRIER PE"
     },
     "replacement":{
-      "character":"D",
-      "name":"unknown"
+      "character":"\u0044",
+      "name":"LATIN CAPITAL LETTER D"
     }
   },
   "\u216E":{
     "source":{
-      "name":"unknown"
+      "name":"ROMAN NUMERAL FIVE HUNDRED"
     },
     "replacement":{
-      "character":"D",
-      "name":"unknown"
+      "character":"\u0044",
+      "name":"LATIN CAPITAL LETTER D"
     }
   },
   "\u0395":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER EPSILON"
     },
     "replacement":{
-      "character":"E",
-      "name":"unknown"
+      "character":"\u0045",
+      "name":"LATIN CAPITAL LETTER E"
     }
   },
   "\u0415":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER IE"
     },
     "replacement":{
-      "character":"E",
-      "name":"unknown"
+      "character":"\u0045",
+      "name":"LATIN CAPITAL LETTER E"
     }
   },
   "\u13AC":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER GV"
     },
     "replacement":{
-      "character":"E",
-      "name":"unknown"
+      "character":"\u0045",
+      "name":"LATIN CAPITAL LETTER E"
     }
   },
   "\u15B4":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS BLACKFOOT WE"
     },
     "replacement":{
-      "character":"F",
-      "name":"unknown"
+      "character":"\u0046",
+      "name":"LATIN CAPITAL LETTER F"
     }
   },
   "\u050C":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER KOMI SJE"
     },
     "replacement":{
-      "character":"G",
-      "name":"unknown"
+      "character":"\u0047",
+      "name":"LATIN CAPITAL LETTER G"
     }
   },
   "\u13C0":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER NAH"
     },
     "replacement":{
-      "character":"G",
-      "name":"unknown"
+      "character":"\u0047",
+      "name":"LATIN CAPITAL LETTER G"
     }
   },
   "\u0397":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER ETA"
     },
     "replacement":{
-      "character":"H",
-      "name":"unknown"
+      "character":"\u0048",
+      "name":"LATIN CAPITAL LETTER H"
     }
   },
   "\u041D":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER EN"
     },
     "replacement":{
-      "character":"H",
-      "name":"unknown"
+      "character":"\u0048",
+      "name":"LATIN CAPITAL LETTER H"
     }
   },
   "\u12D8":{
     "source":{
-      "name":"unknown"
+      "name":"ETHIOPIC SYLLABLE ZA"
     },
     "replacement":{
-      "character":"H",
-      "name":"unknown"
+      "character":"\u0048",
+      "name":"LATIN CAPITAL LETTER H"
     }
   },
   "\u13BB":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER MI"
     },
     "replacement":{
-      "character":"H",
-      "name":"unknown"
+      "character":"\u0048",
+      "name":"LATIN CAPITAL LETTER H"
     }
   },
   "\u157C":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS NUNAVUT H"
     },
     "replacement":{
-      "character":"H",
-      "name":"unknown"
+      "character":"\u0048",
+      "name":"LATIN CAPITAL LETTER H"
     }
   },
   "\u2C8E":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER HATE"
     },
     "replacement":{
-      "character":"H",
-      "name":"unknown"
+      "character":"\u0048",
+      "name":"LATIN CAPITAL LETTER H"
     }
   },
   "\u0399":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER IOTA"
     },
     "replacement":{
-      "character":"I",
-      "name":"unknown"
+      "character":"\u0049",
+      "name":"LATIN CAPITAL LETTER I"
     }
   },
   "\u0406":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I"
     },
     "replacement":{
-      "character":"I",
-      "name":"unknown"
+      "character":"\u0049",
+      "name":"LATIN CAPITAL LETTER I"
     }
   },
-  "\u2160":{
+    "\u2160":{
     "source":{
-      "name":"unknown"
+      "name":"ROMAN NUMERAL ONE"
     },
     "replacement":{
-      "character":"I",
-      "name":"unknown"
+      "character":"\u0049",
+      "name":"LATIN CAPITAL LETTER I"
     }
   },
   "\u0408":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER JE"
     },
     "replacement":{
-      "character":"J",
-      "name":"unknown"
+      "character":"\u004A",
+      "name":"LATIN CAPITAL LETTER J"
     }
   },
   "\u13AB":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER GU"
     },
     "replacement":{
-      "character":"J",
-      "name":"unknown"
+      "character":"\u004A",
+      "name":"LATIN CAPITAL LETTER J"
     }
   },
   "\u148D":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS CO"
     },
     "replacement":{
-      "character":"J",
-      "name":"unknown"
+      "character":"\u004A",
+      "name":"LATIN CAPITAL LETTER J"
     }
   },
   "\u039A":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER KAPPA"
     },
     "replacement":{
-      "character":"K",
-      "name":"unknown"
+      "character":"\u004B",
+      "name":"LATIN CAPITAL LETTER K"
     }
   },
   "\u13E6":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER TSO"
     },
     "replacement":{
-      "character":"K",
-      "name":"unknown"
+      "character":"\u004B",
+      "name":"LATIN CAPITAL LETTER K"
     }
   },
   "\u16D5":{
     "source":{
-      "name":"unknown"
+      "name":"RUNIC LETTER OPEN-P"
     },
     "replacement":{
-      "character":"K",
-      "name":"unknown"
+      "character":"\u004B",
+      "name":"LATIN CAPITAL LETTER K"
     }
   },
   "\u212A":{
     "source":{
-      "name":"unknown"
+      "name":"KELVIN SIGN"
     },
     "replacement":{
-      "character":"K",
-      "name":"unknown"
+      "character":"\u004B",
+      "name":"LATIN CAPITAL LETTER K"
     }
   },
   "\u2C94":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER KAPA"
     },
     "replacement":{
-      "character":"K",
-      "name":"unknown"
+      "character":"\u004B",
+      "name":"LATIN CAPITAL LETTER K"
     }
   },
   "\u13DE":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER TLE"
     },
     "replacement":{
-      "character":"L",
-      "name":"unknown"
+      "character":"\u004C",
+      "name":"LATIN CAPITAL LETTER L"
     }
   },
   "\u14AA":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS MA"
     },
     "replacement":{
-      "character":"L",
-      "name":"unknown"
+      "character":"\u004C",
+      "name":"LATIN CAPITAL LETTER L"
     }
   },
   "\u216C":{
     "source":{
-      "name":"unknown"
+      "name":"ROMAN NUMERAL FIFTY"
     },
     "replacement":{
-      "character":"L",
-      "name":"unknown"
+      "character":"\u004C",
+      "name":"LATIN CAPITAL LETTER L"
     }
   },
   "\u039C":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER MU"
     },
     "replacement":{
-      "character":"M",
-      "name":"unknown"
+      "character":"\u004D",
+      "name":"LATIN CAPITAL LETTER M"
     }
   },
   "\u03FA":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER SAN"
     },
     "replacement":{
-      "character":"M",
-      "name":"unknown"
+      "character":"\u004D",
+      "name":"LATIN CAPITAL LETTER M"
     }
   },
   "\u041C":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER EM"
     },
     "replacement":{
-      "character":"M",
-      "name":"unknown"
+      "character":"\u004D",
+      "name":"LATIN CAPITAL LETTER M"
     }
   },
   "\u13B7":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER LU"
     },
     "replacement":{
-      "character":"M",
-      "name":"unknown"
+      "character":"\u004D",
+      "name":"LATIN CAPITAL LETTER M"
     }
   },
   "\u216F":{
     "source":{
-      "name":"unknown"
+      "name":"ROMAN NUMERAL ONE THOUSAND"
     },
     "replacement":{
-      "character":"M",
-      "name":"unknown"
+      "character":"\u004D",
+      "name":"LATIN CAPITAL LETTER M"
     }
   },
   "\u039D":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER NU"
     },
     "replacement":{
-      "character":"N",
-      "name":"unknown"
+      "character":"\u004E",
+      "name":"LATIN CAPITAL LETTER N"
     }
   },
   "\u2C9A":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER NI"
     },
     "replacement":{
-      "character":"N",
-      "name":"unknown"
+      "character":"\u004E",
+      "name":"LATIN CAPITAL LETTER N"
     }
   },
   "\u039F":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER OMICRON"
     },
     "replacement":{
-      "character":"O",
-      "name":"unknown"
+      "character":"\u004F",
+      "name":"LATIN CAPITAL LETTER O"
     }
   },
   "\u041E":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER O"
     },
     "replacement":{
-      "character":"O",
-      "name":"unknown"
+      "character":"\u004F",
+      "name":"LATIN CAPITAL LETTER O"
     }
   },
   "\u2C9E":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER O"
     },
     "replacement":{
-      "character":"O",
-      "name":"unknown"
+      "character":"\u004F",
+      "name":"LATIN CAPITAL LETTER O"
     }
   },
   "\u03A1":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER RHO"
     },
     "replacement":{
-      "character":"P",
-      "name":"unknown"
+      "character":"\u0050",
+      "name":"LATIN CAPITAL LETTER P"
     }
   },
   "\u0420":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER ER"
     },
     "replacement":{
-      "character":"P",
-      "name":"unknown"
+      "character":"\u0050",
+      "name":"LATIN CAPITAL LETTER P"
     }
   },
   "\u13E2":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER TLV"
     },
     "replacement":{
-      "character":"P",
-      "name":"unknown"
+      "character":"\u0050",
+      "name":"LATIN CAPITAL LETTER P"
     }
   },
   "\u2CA2":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER RO"
     },
     "replacement":{
-      "character":"P",
-      "name":"unknown"
+      "character":"\u0050",
+      "name":"LATIN CAPITAL LETTER P"
     }
   },
   "\u051A":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER QA"
     },
     "replacement":{
-      "character":"Q",
-      "name":"unknown"
+      "character":"\u0051",
+      "name":"LATIN CAPITAL LETTER Q"
     }
   },
   "\u2D55":{
     "source":{
-      "name":"unknown"
+      "name":"TIFINAGH LETTER YARR"
     },
     "replacement":{
-      "character":"Q",
-      "name":"unknown"
+      "character":"\u0051",
+      "name":"LATIN CAPITAL LETTER Q"
     }
   },
   "\u13A1":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER E"
     },
     "replacement":{
-      "character":"R",
-      "name":"unknown"
+      "character":"\u0052",
+      "name":"LATIN CAPITAL LETTER R"
     }
   },
   "\u13D2":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER SV"
     },
     "replacement":{
-      "character":"R",
-      "name":"unknown"
+      "character":"\u0052",
+      "name":"LATIN CAPITAL LETTER R"
     }
   },
   "\u1587":{
     "source":{
-      "name":"unknown"
+      "name":"CANADIAN SYLLABICS TLHI"
     },
     "replacement":{
-      "character":"R",
-      "name":"unknown"
+      "character":"\u0052",
+      "name":"LATIN CAPITAL LETTER R"
     }
   },
   "\u0405":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER DZE"
     },
     "replacement":{
-      "character":"S",
-      "name":"unknown"
+      "character":"\u0053",
+      "name":"LATIN CAPITAL LETTER S"
     }
   },
   "\u13DA":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER DU"
     },
     "replacement":{
-      "character":"S",
-      "name":"unknown"
+      "character":"\u0053",
+      "name":"LATIN CAPITAL LETTER S"
     }
   },
   "\u03A4":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER TAU"
     },
     "replacement":{
-      "character":"T",
-      "name":"unknown"
+      "character":"\u0054",
+      "name":"LATIN CAPITAL LETTER T"
     }
   },
   "\u0422":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER TE"
     },
     "replacement":{
-      "character":"T",
-      "name":"unknown"
+      "character":"\u0054",
+      "name":"LATIN CAPITAL LETTER T"
     }
   },
   "\u13A2":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER I"
     },
     "replacement":{
-      "character":"T",
-      "name":"unknown"
+      "character":"\u0054",
+      "name":"LATIN CAPITAL LETTER T"
     }
   },
   "\u13D9":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER DO"
     },
     "replacement":{
-      "character":"V",
-      "name":"unknown"
+      "character":"\u0056",
+      "name":"LATIN CAPITAL LETTER V"
     }
   },
   "\u2164":{
@@ -1534,773 +1534,773 @@
       "name":"unknown"
     },
     "replacement":{
-      "character":"V",
-      "name":"unknown"
+      "character":"\u0056",
+      "name":"LATIN CAPITAL LETTER V"
     }
   },
   "\u13B3":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER LA"
     },
     "replacement":{
-      "character":"W",
-      "name":"unknown"
+      "character":"\u0057",
+      "name":"LATIN CAPITAL LETTER W"
     }
   },
   "\u13D4":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER TA"
     },
     "replacement":{
-      "character":"W",
-      "name":"unknown"
+      "character":"\u0057",
+      "name":"LATIN CAPITAL LETTER W"
     }
   },
   "\u03A7":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER CHI"
     },
     "replacement":{
-      "character":"X",
-      "name":"unknown"
+      "character":"\u0058",
+      "name":"LATIN CAPITAL LETTER X"
     }
   },
   "\u0425":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC CAPITAL LETTER HA"
     },
     "replacement":{
-      "character":"X",
-      "name":"unknown"
+      "character":"\u0058",
+      "name":"LATIN CAPITAL LETTER X"
     }
   },
   "\u2169":{
     "source":{
-      "name":"unknown"
+      "name":"ROMAN NUMERAL TEN"
     },
     "replacement":{
-      "character":"X",
-      "name":"unknown"
+      "character":"\u0058",
+      "name":"LATIN CAPITAL LETTER X"
     }
   },
   "\u2CAC":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER KHI"
     },
     "replacement":{
-      "character":"X",
-      "name":"unknown"
+      "character":"\u0058",
+      "name":"LATIN CAPITAL LETTER X"
     }
   },
   "\u03A5":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER UPSILON"
     },
     "replacement":{
-      "character":"Y",
-      "name":"unknown"
+      "character":"\u0059",
+      "name":"LATIN CAPITAL LETTER Y"
     }
   },
   "\u2CA8":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC CAPITAL LETTER UA"
     },
     "replacement":{
-      "character":"Y",
-      "name":"unknown"
+      "character":"\u0059",
+      "name":"LATIN CAPITAL LETTER Y"
     }
   },
   "\u0396":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK CAPITAL LETTER ZETA"
     },
     "replacement":{
-      "character":"Z",
-      "name":"unknown"
+      "character":"\u005A",
+      "name":"LATIN CAPITAL LETTER Z"
     }
   },
   "\u13C3":{
     "source":{
-      "name":"unknown"
+      "name":"CHEROKEE LETTER NO"
     },
     "replacement":{
-      "character":"Z",
-      "name":"unknown"
+      "character":"\u005A",
+      "name":"LATIN CAPITAL LETTER Z"
     }
   },
   "\uFF3B":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH LEFT SQUARE BRACKET"
     },
     "replacement":{
-      "character":"[",
-      "name":"unknown"
+      "character":"\u005B",
+      "name":"LEFT SQUARE BRACKET"
     }
   },
   "\uFF3C":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH REVERSE SOLIDUS"
     },
     "replacement":{
-      "character":"\\",
-      "name":"unknown"
+      "character":"\u005C",
+      "name":"REVERSE SOLIDUS"
     }
   },
   "\u2216":{
     "source":{
-      "name":"unknown"
+      "name":"SET MINUS"
     },
     "replacement":{
-      "character":"\\",
-      "name":"unknown"
+      "character":"\u005C",
+      "name":"REVERSE SOLIDUS"
     }
   },
   "\u29F5":{
     "source":{
-      "name":"unknown"
+      "name":"REVERSE SOLIDUS OPERATOR"
     },
     "replacement":{
-      "character":"\\",
-      "name":"unknown"
+      "character":"\u005C",
+      "name":"REVERSE SOLIDUS"
     }
   },
   "\u29F9":{
     "source":{
-      "name":"unknown"
+      "name":"BIG REVERSE SOLIDUS"
     },
     "replacement":{
-      "character":"\\",
-      "name":"unknown"
+      "character":"\u005C",
+      "name":"REVERSE SOLIDUS"
     }
   },
   "\uFE68":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL REVERSE SOLIDUS"
     },
     "replacement":{
-      "character":"\\",
-      "name":"unknown"
+      "character":"\u005C",
+      "name":"REVERSE SOLIDUS"
     }
   },
   "\uFF3D":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH RIGHT SQUARE BRACKET"
     },
     "replacement":{
-      "character":"]",
-      "name":"unknown"
+      "character":"\u005C",
+      "name":"RIGHT SQUARE BRACKET"
     }
   },
   "\uFF3E":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH CIRCUMFLEX ACCENT"
     },
     "replacement":{
-      "character":"^",
-      "name":"unknown"
+      "character":"\u005E",
+      "name":"CIRCUMFLEX ACCENT"
     }
   },
   "\u02C4":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER UP ARROWHEAD"
     },
     "replacement":{
-      "character":"^",
-      "name":"unknown"
+      "character":"\u005E",
+      "name":"CIRCUMFLEX ACCENT"
     }
   },
   "\u02C6":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER CIRCUMFLEX ACCENT"
     },
     "replacement":{
-      "character":"^",
-      "name":"unknown"
+      "character":"\u005E",
+      "name":"CIRCUMFLEX ACCENT"
     }
   },
   "\u1DBA":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER SMALL TURNED V"
     },
     "replacement":{
-      "character":"^",
-      "name":"unknown"
+      "character":"\u005E",
+      "name":"CIRCUMFLEX ACCENT"
     }
   },
   "\u2303":{
     "source":{
-      "name":"unknown"
+      "name":"UP ARROWHEAD"
     },
     "replacement":{
-      "character":"^",
-      "name":"unknown"
+      "character":"\u005E",
+      "name":"CIRCUMFLEX ACCENT"
     }
   },
   "\uFF3F":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH LOW LINE"
     },
     "replacement":{
-      "character":"_",
-      "name":"unknown"
+      "character":"\u005F",
+      "name":"LOW LINE"
     }
   },
   "\u02CD":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER LOW MACRON"
     },
     "replacement":{
-      "character":"_",
-      "name":"unknown"
+      "character":"\u005F",
+      "name":"LOW LINE"
     }
   },
   "\u268A":{
     "source":{
-      "name":"unknown"
+      "name":"MONOGRAM FOR YANG"
     },
     "replacement":{
-      "character":"_",
-      "name":"unknown"
+      "character":"\u005F",
+      "name":"LOW LINE"
     }
   },
   "\uFF40":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH GRAVE ACCENT"
     },
     "replacement":{
-      "character":"`",
-      "name":"unknown"
+      "character":"\u0060",
+      "name":"GRAVE ACCENT"
     }
   },
   "\u02CB":{
     "source":{
-      "name":"unknown"
+      "name":"MODIFIER LETTER GRAVE ACCENT"
     },
     "replacement":{
-      "character":"`",
-      "name":"unknown"
+      "character":"\u0060",
+      "name":"GRAVE ACCENT"
     }
   },
   "\u1FEF":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK VARIA"
     },
     "replacement":{
-      "character":"`",
-      "name":"unknown"
+      "character":"\u0060",
+      "name":"GRAVE ACCENT"
     }
   },
   "\u2035":{
     "source":{
-      "name":"unknown"
+      "name":"REVERSED PRIME"
     },
     "replacement":{
-      "character":"`",
-      "name":"unknown"
+      "character":"\u0060",
+      "name":"GRAVE ACCENT"
     }
   },
   "\u0251":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN SMALL LETTER ALPHA"
     },
     "replacement":{
-      "character":"a",
-      "name":"unknown"
+      "character":"\u0061",
+      "name":"LATIN SMALL LETTER A"
     }
   },
   "\u0430":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER A"
     },
     "replacement":{
-      "character":"a",
-      "name":"unknown"
+      "character":"\u0061",
+      "name":"LATIN SMALL LETTER A"
     }
   },
   "\u03F2":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK LUNATE SIGMA SYMBOL"
     },
     "replacement":{
-      "character":"c",
-      "name":"unknown"
+      "character":"\u0063",
+      "name":"LATIN SMALL LETTER C"
     }
   },
   "\u0441":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER ES"
     },
     "replacement":{
-      "character":"c",
-      "name":"unknown"
+      "character":"\u0063",
+      "name":"LATIN SMALL LETTER C"
     }
   },
   "\u217D":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL ONE HUNDRED"
     },
     "replacement":{
-      "character":"c",
-      "name":"unknown"
+      "character":"\u0063",
+      "name":"LATIN SMALL LETTER C"
     }
   },
   "\u0501":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER KOMI DE"
     },
     "replacement":{
-      "character":"d",
-      "name":"unknown"
+      "character":"\u0064",
+      "name":"LATIN SMALL LETTER D"
     }
   },
   "\u217E":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL FIVE HUNDRED"
     },
     "replacement":{
-      "character":"d",
-      "name":"unknown"
+      "character":"\u0064",
+      "name":"LATIN SMALL LETTER D"
     }
   },
   "\u0435":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER IE"
     },
     "replacement":{
-      "character":"e",
-      "name":"unknown"
+      "character":"\u0065",
+      "name":"LATIN SMALL LETTER E"
     }
   },
   "\u1971":{
     "source":{
-      "name":"unknown"
+      "name":"TAI LE LETTER TONE-3"
     },
     "replacement":{
-      "character":"e",
-      "name":"unknown"
+      "character":"\u0065",
+      "name":"LATIN SMALL LETTER E"
     }
   },
   "\u0261":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN SMALL LETTER SCRIPT G"
     },
     "replacement":{
-      "character":"g",
-      "name":"unknown"
+      "character":"\u0067",
+      "name":"LATIN SMALL LETTER G"
     }
   },
   "\u04BB":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER SHHA"
     },
     "replacement":{
-      "character":"h",
-      "name":"unknown"
+      "character":"\u0068",
+      "name":"LATIN SMALL LETTER H"
     }
   },
   "\u0456":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I"
     },
     "replacement":{
-      "character":"i",
-      "name":"unknown"
+      "character":"\u0069",
+      "name":"LATIN SMALL LETTER I"
     }
   },
   "\u2170":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL ONE"
     },
     "replacement":{
-      "character":"i",
-      "name":"unknown"
+      "character":"\u0069",
+      "name":"LATIN SMALL LETTER I"
     }
   },
   "\u03F3":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK LETTER YOT"
     },
     "replacement":{
-      "character":"j",
-      "name":"unknown"
+      "character":"\u006A",
+      "name":"LATIN SMALL LETTER J"
     }
   },
   "\u0458":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER JE"
     },
     "replacement":{
-      "character":"j",
-      "name":"unknown"
+      "character":"\u006A",
+      "name":"LATIN SMALL LETTER J"
     }
   },
   "\u217C":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL FIFTY"
     },
     "replacement":{
-      "character":"l",
-      "name":"unknown"
+      "character":"\u006C",
+      "name":"LATIN SMALL LETTER L"
     }
   },
   "\u217F":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL ONE THOUSAND"
     },
     "replacement":{
-      "character":"m",
-      "name":"unknown"
+      "character":"\u006D",
+      "name":"LATIN SMALL LETTER M"
     }
   },
   "\u1952":{
     "source":{
-      "name":"unknown"
+      "name":"TAI LE LETTER NGA"
     },
     "replacement":{
-      "character":"n",
-      "name":"unknown"
+      "character":"\u006E",
+      "name":"LATIN SMALL LETTER N"
     }
   },
   "\u03BF":{
     "source":{
-      "name":"unknown"
+      "name":"GREEK SMALL LETTER OMICRON"
     },
     "replacement":{
-      "character":"o",
-      "name":"unknown"
+      "character":"\u006F",
+      "name":"LATIN SMALL LETTER O"
     }
   },
   "\u043E":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER O"
     },
     "replacement":{
-      "character":"o",
-      "name":"unknown"
+      "character":"\u006F",
+      "name":"LATIN SMALL LETTER O"
     }
   },
   "\u0D20":{
     "source":{
-      "name":"unknown"
+      "name":"MALAYALAM LETTER TTHA"
     },
     "replacement":{
-      "character":"o",
-      "name":"unknown"
+      "character":"\u006F",
+      "name":"LATIN SMALL LETTER O"
     }
   },
   "\u2C9F":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC SMALL LETTER O"
     },
     "replacement":{
-      "character":"o",
-      "name":"unknown"
+      "character":"\u006F",
+      "name":"LATIN SMALL LETTER O"
     }
   },
   "\u0440":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER ER"
     },
     "replacement":{
-      "character":"p",
-      "name":"unknown"
+      "character":"\u0070",
+      "name":"LATIN SMALL LETTER P"
     }
   },
   "\u2CA3":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC SMALL LETTER RO"
     },
     "replacement":{
-      "character":"p",
-      "name":"unknown"
+      "character":"\u0070",
+      "name":"LATIN SMALL LETTER P"
     }
   },
   "\u0455":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER DZE"
     },
     "replacement":{
-      "character":"s",
-      "name":"unknown"
+      "character":"\u0073",
+      "name":"LATIN SMALL LETTER S"
     }
   },
   "\u1959":{
     "source":{
-      "name":"unknown"
+      "name":"TAI LE LETTER PA"
     },
     "replacement":{
-      "character":"u",
-      "name":"unknown"
+      "character":"\u0075",
+      "name":"LATIN SMALL LETTER U"
     }
   },
   "\u222A":{
     "source":{
-      "name":"unknown"
+      "name":"UNION"
     },
     "replacement":{
-      "character":"u",
-      "name":"unknown"
+      "character":"\u0075",
+      "name":"LATIN SMALL LETTER U"
     }
   },
   "\u1D20":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN LETTER SMALL CAPITAL V"
     },
     "replacement":{
-      "character":"v",
-      "name":"unknown"
+      "character":"\u0076",
+      "name":"LATIN SMALL LETTER V"
     }
   },
   "\u2174":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL FIVE"
     },
     "replacement":{
-      "character":"v",
-      "name":"unknown"
+      "character":"\u0076",
+      "name":"LATIN SMALL LETTER V"
     }
   },
   "\u2228":{
     "source":{
-      "name":"unknown"
+      "name":"LOGICAL OR"
     },
     "replacement":{
-      "character":"v",
-      "name":"unknown"
+      "character":"\u0076",
+      "name":"LATIN SMALL LETTER V"
     }
   },
   "\u22C1":{
     "source":{
-      "name":"unknown"
+      "name":"N-ARY LOGICAL OR"
     },
     "replacement":{
-      "character":"v",
-      "name":"unknown"
+      "character":"\u0076",
+      "name":"LATIN SMALL LETTER V"
     }
   },
   "\u1D21":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN LETTER SMALL CAPITAL W"
     },
     "replacement":{
-      "character":"w",
-      "name":"unknown"
+      "character":"\u0077",
+      "name":"LATIN SMALL LETTER W"
     }
   },
   "\u0445":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER HA"
     },
     "replacement":{
-      "character":"x",
-      "name":"unknown"
+      "character":"\u0078",
+      "name":"LATIN SMALL LETTER X"
     }
   },
   "\u2179":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL ROMAN NUMERAL TEN"
     },
     "replacement":{
-      "character":"x",
-      "name":"unknown"
+      "character":"\u0078",
+      "name":"LATIN SMALL LETTER X"
     }
   },
   "\u2CAD":{
     "source":{
-      "name":"unknown"
+      "name":"COPTIC SMALL LETTER KHI"
     },
     "replacement":{
-      "character":"x",
-      "name":"unknown"
+      "character":"\u0078",
+      "name":"LATIN SMALL LETTER X"
     }
   },
   "\u0443":{
     "source":{
-      "name":"unknown"
+      "name":"CYRILLIC SMALL LETTER U"
     },
     "replacement":{
-      "character":"y",
-      "name":"unknown"
+      "character":"\u0079",
+      "name":"LATIN SMALL LETTER Y"
     }
   },
   "\u1EFF":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN SMALL LETTER Y WITH LOOP"
     },
     "replacement":{
-      "character":"y",
-      "name":"unknown"
+      "character":"\u0079",
+      "name":"LATIN SMALL LETTER Y"
     }
   },
   "\u1D22":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN LETTER SMALL CAPITAL Z"
     },
     "replacement":{
-      "character":"z",
-      "name":"unknown"
+      "character":"\u007A",
+      "name":"LATIN SMALL LETTER Z"
     }
   },
   "\uFF5B":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH LEFT CURLY BRACKET"
     },
     "replacement":{
-      "character":"{",
-      "name":"unknown"
+      "character":"\u007B",
+      "name":"LEFT CURLY BRACKET"
     }
   },
   "\uFE5B":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL LEFT CURLY BRACKET"
     },
     "replacement":{
-      "character":"{",
-      "name":"unknown"
+      "character":"\u007B",
+      "name":"LEFT CURLY BRACKET"
     }
   },
   "\uFF5C":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH VERTICAL LINE"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u01C0":{
     "source":{
-      "name":"unknown"
+      "name":"LATIN LETTER DENTAL CLICK"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u16C1":{
     "source":{
-      "name":"unknown"
+      "name":"RUNIC LETTER ISAZ IS ISS I"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u239C":{
     "source":{
-      "name":"unknown"
+      "name":"LEFT PARENTHESIS EXTENSION"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u239F":{
     "source":{
-      "name":"unknown"
+      "name":"RIGHT PARENTHESIS EXTENSION"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u23A2":{
     "source":{
-      "name":"unknown"
+      "name":"LEFT SQUARE BRACKET EXTENSION"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u23A5":{
     "source":{
-      "name":"unknown"
+      "name":"RIGHT SQUARE BRACKET EXTENSION"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u23AA":{
     "source":{
-      "name":"unknown"
+      "name":"CURLY BRACKET EXTENSION"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\u23AE":{
     "source":{
-      "name":"unknown"
+      "name":"INTEGRAL EXTENSION"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\uFFE8":{
     "source":{
-      "name":"unknown"
+      "name":"HALFWIDTH FORMS LIGHT VERTICAL"
     },
     "replacement":{
-      "character":"|",
-      "name":"unknown"
+      "character":"\u007C",
+      "name":"VERTICAL LINE"
     }
   },
   "\uFF5D":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH RIGHT CURLY BRACKET"
     },
     "replacement":{
-      "character":"}",
-      "name":"unknown"
+      "character":"\u007D",
+      "name":"RIGHT CURLY BRACKET"
     }
   },
   "\uFE5C":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL RIGHT CURLY BRACKET"
     },
     "replacement":{
-      "character":"}",
-      "name":"unknown"
+      "character":"\u007D",
+      "name":"RIGHT CURLY BRACKET"
     }
   },
   "\uFF5E":{
     "source":{
-      "name":"unknown"
+      "name":"FULLWIDTH TILDE"
     },
     "replacement":{
-      "character":"~",
-      "name":"unknown"
+      "character":"\u007E",
+      "name":"TILDE"
     }
   },
   "\u02DC":{
     "source":{
-      "name":"unknown"
+      "name":"SMALL TILDE"
     },
     "replacement":{
-      "character":"~",
-      "name":"unknown"
+      "character":"\u007E",
+      "name":"TILDE"
     }
   },
   "\u2053":{
     "source":{
-      "name":"unknown"
+      "name":"SWUNG DASH"
     },
     "replacement":{
-      "character":"~",
-      "name":"unknown"
+      "character":"\u007E",
+      "name":"TILDE"
     }
   },
   "\u223C":{
     "source":{
-      "name":"unknown"
+      "name":"TILDE OPERATOR"
     },
     "replacement":{
-      "character":"~",
-      "name":"unknown"
+      "character":"\u007E",
+      "name":"TILDE"
     }
   }
 }
