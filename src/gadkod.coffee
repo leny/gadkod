@@ -14,9 +14,23 @@ fs = require "fs"
 
 oCharacters = require "../characters.json"
 
-exports.report = _report = ( sFilePath, fNext = null ) ->
+require "./regextend.js"
 
-    # get file content
+exports.parseLine = _parseLine = ( sLine, iLineCount = 0 ) ->
+    aExportedResults = []
+    for sCharacter, oInfos of oCharacters when aResults = ( new RegExp "#{ sCharacter }+", "gi" ).execAll sLine
+        aResults.forEach ( oResult ) ->
+            aExportedResults.push
+                line: iLineCount
+                column: oResult.index
+                character:
+                    source:
+                        char: sCharacter
+                        name: oInfos.source.name
+                    replacement: oInfos.replacement
+    aExportedResults
+
+exports.report = _report = ( sFilePath, fNext = null ) ->
 
     iLineCount = 0
     aResults = []
@@ -25,19 +39,11 @@ exports.report = _report = ( sFilePath, fNext = null ) ->
         .createInterface
             input: fs.createReadStream sFilePath
         .on "line", ( sLine ) ->
-            ++iLineCount
-            for sCharacter, oInfos of oCharacters when oResults = ( new RegExp "#{ sCharacter }+", "gi" ).exec sLine
-                aResults.push
-                    line: iLineCount
-                    column: oResults.index
-                    character:
-                        source:
-                            char: sCharacter
-                            name: oInfos.source.name
-                        replacement: oInfos.replacement
+            Array.prototype.push.apply aResults, ( _parseLine sLine, ++iLineCount )
         .on "error", ( oError ) ->
             fNext? oError
         .on "close", ->
+            console.log aResults
             fNext? null, aResults
 
 exports.convert = _convert = ( sFilePath, oOptions, fNext = null ) ->
