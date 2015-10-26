@@ -43,7 +43,6 @@ exports.report = _report = ( sFilePath, fNext = null ) ->
         .on "error", ( oError ) ->
             fNext? oError
         .on "close", ->
-            console.log aResults
             fNext? null, aResults
 
 exports.convert = _convert = ( sFilePath, oOptions, fNext = null ) ->

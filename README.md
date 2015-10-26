@@ -103,6 +103,9 @@ Output usage information.
 
 Output **gadkòd**' version number.
 
+## Usage as [Atom](https://atom.io) [Linter](https://github.com/AtomLinter/Linter) package
+
+Please refer to [linter-gadkod](https://atom.io/packages/linter-gadkod) documentation.
 ## Contributing
 
 In lieu of a formal styleguide, take care to maintain the existing coding style. Lint your code using [Grunt](http://gruntjs.com/).
