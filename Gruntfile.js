@@ -30,7 +30,7 @@ module.exports = function( grunt ) {
         },
         "concat": {
             "options": {
-                "banner": "#!/usr/bin/env node"
+                "banner": "#!/usr/bin/env node\n"
             },
             "lib": {
                 "src": "lib/cli.js",
