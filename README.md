@@ -1,6 +1,6 @@
 # gadkòd
 
-[![NPM version](http://img.shields.io/npm/v/gadkod.svg)](https://www.npmjs.org/package/gadkod) ![Dependency Status](https://david-dm.org/leny/gadkod.svg) ![Downloads counter](http://img.shields.io/npm/dm/gadkod.svg)
+[![NPM version](http://img.shields.io/npm/v/gadkod.svg)](https://www.npmjs.org/package/gadkod) ![Dependency Status](https://david-dm.org/leny/gadkod.svg) ![Downloads counter](http://img.shields.io/npm/dm/gadkod.svg) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 > Check inside your files for suspicious unicode characters in code (like greek question mark…)
 
